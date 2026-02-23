@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nom": "Ordinateur" },
+  { "id": 2, "nom": "Imprimante" },
+  { "id": 3, "nom": "Téléphone" },
+  { "id": 4, "nom": "Tablette" },
+  { "id": 5, "nom": "Autre" }
+]
